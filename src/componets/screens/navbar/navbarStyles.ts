@@ -5,7 +5,7 @@ export const navbarStyles = {
     display: "flex",
   },
   mainConatiner: {
-    width: "97%",
+    width: "98%",
     display: "flex",
     top: 0,
     zIndex: 1100,

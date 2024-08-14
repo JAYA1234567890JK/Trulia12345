@@ -11,7 +11,7 @@ import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import { explorestyles } from "./exploreStyles";
 
-const ScrollableCards = () => {
+const Explore = () => {
   const scrollRef = useRef<HTMLDivElement>(null);
   const [showLeftArrow, setShowLeftArrow] = useState(false);
 
@@ -177,4 +177,4 @@ const ScrollableCards = () => {
   );
 };
 
-export default ScrollableCards;
+export default Explore;

@@ -1,21 +1,9 @@
 import React from "react";
-
-import Navbar from "./componets/screens/navbar/Navbar";
-import Home from "./componets/screens/bgHome/Home";
-import ScrollableCards from "./componets/screens/exploreHomes/Explore";
-import NewHomes from "./componets/screens/newHomes/NewHomes";
-import HelpSection from "./componets/screens/helpSection/HelpSection";
+import HomeScreens from "./componets/screens/HomeScreens";
 
 function App() {
   return (
-    <div>
-      <Navbar />
-       <Home/>
-      <ScrollableCards/>
-      <NewHomes/>
-      <HelpSection/>
-
-    </div>
+    <HomeScreens/>
   );
 }
 
