@@ -28,7 +28,7 @@ export const homeStyles = {
       borderBottomRightRadius: "5px",
    },
    inputSytles:{
-      width: {lg:"550px",sm:"350px",xs:"300px"},
+      width: {lg:"550px",sm:"350px",xs:"270px"},
       height: "55px",
       border: "none",
       borderBottomLeftRadius: "5px",

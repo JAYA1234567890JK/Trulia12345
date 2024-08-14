@@ -123,7 +123,7 @@ export const explorestyles = {
     width: "100%",
   },
   cardText: {
-    width: { lg: "500px", xs: "400px" },
+    width: { lg: "500px", xs: "300px" },
     fontSize: { lg: "16px", xs: "13px" },
     textAlign: "center",
     mt: 2,
